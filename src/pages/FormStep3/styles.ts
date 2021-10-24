@@ -18,7 +18,9 @@ export const Container = styled.div`
     }
 
     label {
-        font-size :13px;
+        font-size: 13px;
+        display: block;
+        margim-bottom: 20px;
 
         input {
             display: block;
@@ -45,5 +47,12 @@ export const Container = styled.div`
         border-radius: 30px;
         cursor: pointer;
         margin-top: 30px;
+    }
+
+    .backButton {
+        font-size: 16px;
+        text-decoration: none;
+        padding: 20px 40px;
+        color: #B8B8D4
     }
 `
