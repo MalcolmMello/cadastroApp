@@ -1,4 +1,3 @@
-#README
 <h1>App de Cadastro Desenvolvedores</h1>
 
 <h4>Projeto em desenvolvimento...</h4>
@@ -15,6 +14,10 @@ verá seus dados na tela!
 - [x] Nos diga seu nível como programador
 - [x] Onde podemos te encontrar
 - [] Veja as informações na tela!
+
+<h1>
+    <img alt="Readme" title= "Readme" src="./gifs/cadastroapp.gif" />
+</h1>
 
 ### Pré-requisitos
 Antes de começar, você vai precisar das seguintes ferramentas: [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) e um editor de código, como o [VSCode](https://code.visualstudio.com/)
